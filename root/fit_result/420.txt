@@ -1,0 +1,48 @@
+root [1] TFitEditor::DoFit - using function PrevFitTMP  0x561ab4b98250
+ FCN=80.7303 FROM MIGRAD    STATUS=CONVERGED      78 CALLS          79 TOTAL
+                     EDM=1.09015e-07    STRATEGY= 1      ERROR MATRIX ACCURATE
+  EXT PARAMETER                                   STEP         FIRST
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE
+   1  Constant     4.75218e+02   8.59285e+00   2.71307e-02   5.76970e-05
+   2  Mean         1.36482e+02   1.03358e-01   4.04638e-04  -1.20945e-03
+   3  Sigma        5.65423e+00   1.19778e-01   2.32388e-05   8.66048e-02
+TFitEditor::DoFit - using function PrevFitTMP  0x561ab4b98250
+ FCN=94.5686 FROM MIGRAD    STATUS=CONVERGED      77 CALLS          78 TOTAL
+                     EDM=2.35066e-07    STRATEGY= 1      ERROR MATRIX ACCURATE
+  EXT PARAMETER                                   STEP         FIRST
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE
+   1  Constant     6.73259e+02   1.03807e+01   3.48691e-02  -4.76164e-05
+   2  Mean         1.52641e+02   8.15975e-02   3.82899e-04   7.54213e-04
+   3  Sigma        5.69041e+00   1.06103e-01   2.38635e-05   3.17560e-02
+TFitEditor::DoFit - using function PrevFitTMP  0x561ab4b98250
+ FCN=273.398 FROM MIGRAD    STATUS=CONVERGED      71 CALLS          72 TOTAL
+                     EDM=3.11763e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY   2.6 per cent
+  EXT PARAMETER                                   STEP         FIRST
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE
+   1  Constant     7.00348e+02   1.00070e+01  -1.41409e-03  -8.51979e-06
+   2  Mean         1.68684e+02   9.47672e-02  -8.21529e-05  -2.69456e-04
+   3  Sigma        7.12886e+00   1.40146e-01  -1.09855e-05   2.67773e-03
+TFitEditor::DoFit - using function PrevFitTMP  0x561ab4b98250
+ FCN=158.501 FROM MIGRAD    STATUS=CONVERGED      69 CALLS          70 TOTAL
+                     EDM=1.25843e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY   2.1 per cent
+  EXT PARAMETER                                   STEP         FIRST
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE
+   1  Constant     6.43456e+02   9.73346e+00   1.34135e-02  -3.52910e-06
+   2  Mean         1.85451e+02   9.42792e-02  -5.48444e-06   4.66201e-06
+   3  Sigma        6.70292e+00   1.35419e-01  -9.60487e-06   4.96237e-03
+TFitEditor::DoFit - using function PrevFitTMP  0x561ab4b98250
+ FCN=194.341 FROM MIGRAD    STATUS=CONVERGED      70 CALLS          71 TOTAL
+                     EDM=2.07049e-07    STRATEGY= 1  ERROR MATRIX UNCERTAINTY   2.9 per cent
+  EXT PARAMETER                                   STEP         FIRST
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE
+   1  Constant     4.55968e+02   7.70323e+00   6.46985e-02  -3.63637e-05
+   2  Mean         2.00590e+02   1.57150e-01   4.45035e-04  -1.21850e-03
+   3  Sigma        8.39709e+00   2.40266e-01  -8.93118e-05   4.74024e-02
+TFitEditor::DoFit - using function PrevFitTMP  0x561ab4b98250
+ FCN=15.0988 FROM MIGRAD    STATUS=CONVERGED      87 CALLS          88 TOTAL
+                     EDM=1.30677e-09    STRATEGY= 1      ERROR MATRIX ACCURATE
+  EXT PARAMETER                                   STEP         FIRST
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE
+   1  Constant     3.18849e+02   6.65773e+00   9.42927e-03  -7.33222e-06
+   2  Mean         2.17133e+02   1.85158e-01   3.04547e-04  -2.17064e-04
+   3  Sigma        6.97076e+00   2.44023e-01   1.83959e-05  -1.85959e-03
